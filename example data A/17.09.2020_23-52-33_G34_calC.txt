@@ -1,0 +1,3 @@
+No.	AMP	Hi_L	Low_L	INT	COUNT	Si[MPa]	Quality
+    1	 1,34	 1,34	    0	 6004	 1945	  135	  189
+    2	 0,88	  0,9	 0,02	 4385	  823	   41	  168
